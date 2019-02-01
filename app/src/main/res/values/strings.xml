@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="parth_joshi">Parth Joshi</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="text">Conceptualize, develop, and test Android applications, including UI, core functionality, and third-party SDKS
+        \n \nAndroid applications with MVP pattern and dependency injection using Dagger
+        \n \nCreated successful proof of concept (POC)
+        \n \nWrote maintainable and reusable Java and C++ code with a focus on security and privacy
+        debugging
+        \n \nEnsure applications are properly integrated with Android APIs.
+        \n \nParticipate in fast-paced development cycles; have completed 100% of deadlines ahead of schedule.
+        \n \nContribute and participate in new feature product specifications. - open source
+        \n \nWrote clean, clear, efficient, well-tested, and maintainable code.
+        \n \nArticulated technical risks and obstacles to key stakeholders and managers.</string>
+    <string name="nickname_hint">Nickname</string>
+    <string name="done">Done</string>
+</resources>
